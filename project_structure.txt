@@ -1,0 +1,39 @@
+﻿PROJECT STRUCTURE: C:\Users\ASUS\OneDrive\Desktop\Atomation\proto_type_3\project_2\project\project
+
+[DIR]  src
+[DIR]  tests
+[FILE] .gitignore
+[FILE] current_project_ui_fix.zip
+[FILE] eslint.config.js
+[FILE] index.html
+[FILE] package-lock.json
+[FILE] package.json
+[FILE] postcss.config.js
+[FILE] requirements.txt
+[FILE] settings.json
+[FILE] Start-RecordTask.ps1
+[FILE] tailwind.config.js
+[FILE] tsconfig.app.json
+[FILE] tsconfig.json
+[FILE] tsconfig.node.json
+[FILE] vite.config.ts
+[DIR]  src\backup_3
+[DIR]  src\backup_4_5-7sec faster
+[DIR]  src\backup_5_3-4sec_faster
+[DIR]  src\backup_6_3.5sec_faster
+[DIR]  src\backup_of_the_app_UI
+[DIR]  src\utils
+[FILE] src\app.py
+[FILE] src\App.tsx
+[FILE] src\index.css
+[FILE] src\logic.py
+[FILE] src\main.tsx
+[FILE] src\vite-env.d.ts
+[FILE] src\backup_3\app.py
+[FILE] src\backup_3\logic.py
+[FILE] src\backup_4_5-7sec faster\app.py
+[FILE] src\backup_5_3-4sec_faster\app.py
+[FILE] src\backup_6_3.5sec_faster\app.py
+[FILE] src\backup_of_the_app_UI\app.py
+[FILE] src\utils\debug.py
+[FILE] tests\test_automation.py
